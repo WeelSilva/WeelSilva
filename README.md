@@ -1,4 +1,4 @@
-### Olá! Eu sou o Wellington Oliveira 👋
+### Olá! Eu sou o Wellington Silva 👋
 
 - 🔭 Hoje Trabalho com Suporte de Ti 
 - 🌱 Estudando Front-end
