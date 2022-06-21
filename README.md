@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wellington Silva 👋
 
-- 🔭 Hoje Trabalho com Suporte de Ti 
-- 🌱 Estudando Front-end
+- 🔭 Atualmente trabalho com Suporte de Ti, mas estou estudando para me tornar um Dev
+- 🌱 Estudando Analise e desenvolvimento de sistemas
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
@@ -12,7 +12,7 @@
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Well-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Well-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Well-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/966485991915413514/982060376382406686/WhatsApp_Image_2022-06-02_at_20.14.19-removebg-preview.png?width=480&height=480">
 </div>
