@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wellington Silva 👋
 
-- 🔭 Atualmente trabalho com Suporte de Ti, mas estou estudando para me tornar um Dev
+- 🔭 Atualmente trabalho como Analista financeiro, porém tenho o sonho de conseguir minha primeira vaga como desenvolvedor front-end.
 - 🌱 Estudando Analise e desenvolvimento de sistemas
 - 😄 Pronomes: Ele/dele
 
