@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wellington Silva 👋
 
-- 🔭 Atualmente trabalho como Analista financeiro, porém tenho o sonho de conseguir minha primeira vaga como desenvolvedor front-end.
-- 🌱 Estudando Analise e desenvolvimento de sistemas
+- 🔭 Atualmente trabalho como Analista financeiro, mas venho investindo tempo e dinheiro para conseguir minha oportunidade como desenvolvedor front-end.
+- 🌱 Estudando React|JavaScript|Html|Css|
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
