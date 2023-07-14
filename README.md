@@ -1,6 +1,6 @@
-### Olá! Eu sou o Wellington Silva 👋
+### Olá! Meu nome é Wellington Silva 👋
 
-- 🔭 Atualmente trabalho como Analista financeiro, mas venho investindo tempo e dinheiro para conseguir minha oportunidade como desenvolvedor front-end.
+- 🔭 Atualmente, trabalho como Analista financeiro, mas venho investindo tempo e dinheiro para conseguir minha oportunidade como desenvolvedor front-end.
 - 🌱 Estudando React|JavaScript|Html|Css|
 - 😄 Pronomes: Ele/dele
 
@@ -11,7 +11,10 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Well-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+
+  <img align="center" alt="   
+  <img align="center" alt="Well-TYPESCRIPT" height="30" width="40" src="https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)">
   <img align="center" alt="Well-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Well-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/966485991915413514/982060376382406686/WhatsApp_Image_2022-06-02_at_20.14.19-removebg-preview.png?width=480&height=480">
