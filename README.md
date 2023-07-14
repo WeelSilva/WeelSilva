@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Wellington Silva 👋
 
 - 🔭 Atualmente, trabalho como Analista financeiro, mas venho investindo tempo e dinheiro para conseguir minha oportunidade como desenvolvedor front-end.
-- 🌱 Estudando React|JavaScript|Html|Css|
+- 🌱 Estudando React|JavaScript|Html|Css|Node.JS
 - 😄 Pronomes: Ele/dele
 
 <div align="center">
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeelSilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block; padding: 100%"><br>
   <img align="center" alt="Well-TYPESCRIPT" height="30" width="40" src="https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465">
   <img align="center" alt="Well-JAVASCRIPT" height="30" width="40" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145">
   <img align="center" alt="Well-CSS" height="30" width="40" src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
