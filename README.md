@@ -1,6 +1,5 @@
 ### Olá! Meu nome é Wellington Silva 👋
 
-- 🔭 Atualmente, trabalho como Analista financeiro, mas venho investindo tempo e dinheiro para conseguir minha oportunidade como desenvolvedor front-end.
 - 🌱 Estudando React | JavaScript | Html | Css | Node.JS
 - 😄 Pronomes: Ele/dele
 
