@@ -38,10 +38,10 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellSilva&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeelSilva&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellSilva&show_icons=true&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeelSilva&show_icons=true&theme=tokyonight)
 
  
   
