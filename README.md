@@ -4,30 +4,34 @@
 </h1>
 
 
-<div align="center"> Formado em análise e desenvolvimento de sistemas e cursando MBA em engenharia de software.
-   
-  No momento, estou focado em aprimorar minhas habilidades como desenvolvedor e conquistar mais oportunidades.</div>&nbsp;
+<div> 👨‍💻 Sobre mim
+
+Sou Analista Financeiro na Leão e estudante de MBA em Engenharia de Software na USP. Tenho formação em Análise e Desenvolvimento de Sistemas pela Estácio e estou em transição para a área de desenvolvimento frontend. Atualmente, estou aprendendo tecnologias como React e Next.js para construir interfaces modernas e responsivas.
+
+🚀 Tecnologias e Ferramentas
+
+Frontend: React, Next.js, JavaScript, HTML, CSS
+
+Banco de Dados: SQL
+
+📂 Projetos em Destaque
+
+🔹 Portfólio Pessoal (Em desenvolvimento...)
+🔹 Jogo de Heróis em JavaScript
+
+📫 Como me encontrar
+
+📧 Email: wsilva9589@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/wellingtonsil/
+
+🌎 Portfólio (Em breve!)
+
+Obrigado por visitar meu perfil! 🚀</div>&nbsp;
 
 <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=700&height=100&duration=10000&lines=Engenheiro+de+Software;" />
 </h2>
-
-
-## Hard skills: 
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-
-
-## Contato:
-
-  <div> 
-  <a href="https://www.instagram.com/weelsillva/"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wellingtonsil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>&nbsp;&nbsp;
 
