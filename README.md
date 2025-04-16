@@ -14,11 +14,6 @@ Frontend: React, Next.js, JavaScript, HTML, CSS
 
 Banco de Dados: SQL
 
-📂 Projetos em Destaque
-
-🔹 Portfólio Pessoal (Em desenvolvimento...)
-🔹 Jogo de Heróis em JavaScript
-
 📫 Como me encontrar:
 
 📧 Email: wsilva9589@gmail.com
