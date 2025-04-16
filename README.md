@@ -6,9 +6,9 @@
 
 <div> 👨‍💻 Sobre mim
 
-Sou Analista Financeiro na Leão e estudante de MBA em Engenharia de Software na USP. Tenho formação em Análise e Desenvolvimento de Sistemas pela Estácio e estou em transição para a área de desenvolvimento frontend. Atualmente, estou aprendendo tecnologias como React e Next.js para construir interfaces modernas e responsivas.
+Atualmente trabalho como Analista de Planejamento Financeiro. Tenho formação em Análise e Desenvolvimento de Sistemas. Atualmente, estou aprendendo tecnologias como React e Next.js para construir interfaces modernas e responsivas.
 
-🚀 Tecnologias e Ferramentas
+🚀 Tecnologias e Ferramentas que ja utilizei
 
 Frontend: React, Next.js, JavaScript, HTML, CSS
 
@@ -19,7 +19,7 @@ Banco de Dados: SQL
 🔹 Portfólio Pessoal (Em desenvolvimento...)
 🔹 Jogo de Heróis em JavaScript
 
-📫 Como me encontrar
+📫 Como me encontrar:
 
 📧 Email: wsilva9589@gmail.com
 
