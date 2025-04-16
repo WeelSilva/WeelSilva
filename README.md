@@ -30,7 +30,7 @@ Banco de Dados: SQL
 Obrigado por visitar meu perfil! 🚀</div>&nbsp;
 
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=700&height=100&duration=10000&lines=Engenheiro+de+Software;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=700&height=100&duration=10000&lines=Desenvolvedor+de+Software;" />
 </h2>
   
 </div>&nbsp;&nbsp;
